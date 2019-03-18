@@ -3,7 +3,7 @@
 ZFS on Linux is an advanced file system and volume manager which was originally
 developed for Solaris and is now maintained by the OpenZFS community.
 
-FreeZFS is a nascent fork of ZoL, with the intent of purging all the CDDL code.
+FreeZFS is a nascent fork of ZoL, with the intent of replacing CDDL code with (possibly dual licensed) OSS licensed code.
 
 [![codecov](https://codecov.io/gh/zfsonlinux/zfs/branch/master/graph/badge.svg)](https://codecov.io/gh/zfsonlinux/zfs)
 [![coverity](https://scan.coverity.com/projects/1973/badge.svg)](https://scan.coverity.com/projects/zfsonlinux-zfs)
